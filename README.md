@@ -22,30 +22,42 @@ However, I would like to get updated on new designing techniques, effects & tech
 - Merge and experiment web contents.
 
 
-```markdown
-Syntax highlighted code block
+##Skills
+###Technical Skills
 
-# Header 1
-## Header 2
-### Header 3
+**Web Technology**
+Html5, Css3, Javascript, Jquery
 
-- Bulleted
-- List
+**Html Frameworks**
+Bootstrap, Foundation
 
-1. Numbered
-2. List
+**Designing Tools**
+Photoshop, Illustrator,
 
-**Bold** and _Italic_ and `Code` text
+**Professional Skills**
+- Sketching layout
+- Typography
+- Design theory
+- Analytics
+- Presentation
+- Group Study
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+###Expertise In:
 
-### Jekyll Themes
+**Product Branding:**
+- Logo design for your product or business with respect to client thoughts and ideas.
+- Packaging / Stationary design according to your brand and modern ideas .
+- Designing any kind of printing medium for your brand with proper guideline.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vipulkhandar/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Mobile App Designing:**
+- Design mobile application workflow cards.
+- Gather user accessibility to an application and design according to it.
+- Develop application mock-ups in line with brand and guideline. 
+- Perform user interactions and analyse UX issues.
 
-### Support or Contact
+**Website Designing:**
+- Gather user requirements and create storyboard.
+- Design wireframe layout of website and discuss the user flow. 
+- Develop coloured layout design with multiple options.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

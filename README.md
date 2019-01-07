@@ -10,16 +10,16 @@ However, I would like to get updated on new designing techniques, effects & tech
 
 ## As Sr. Web Designer / UXUI Designer
 
--Communicate with the clients to design the mobile and web application linking to their conformability.
--Develop an interactive website and mobile application design according to client requirements.
--Prepare the step by step roadmap or workflow of work to guide the clients to achieve their targeted milestones in design.
--Engage in search engine optimization.
--Design wireframes, mock-ups, storyboards, animations, etc
--Gradual professional development to keep up to date with new software developments.
--Ensure that the required resources are available for graphics, contents, coding and decoding data.
--Prepare product demos, layouts, screens and illustrations.
--Optimize web content where needed.
--Merge and experiment web contents.
+- Communicate with the clients to design the mobile and web application linking to their conformability.
+- Develop an interactive website and mobile application design according to client requirements.
+- Prepare the step by step roadmap or workflow of work to guide the clients to achieve their targeted milestones in design.
+- Engage in search engine optimization.
+- Design wireframes, mock-ups, storyboards, animations, etc
+- Gradual professional development to keep up to date with new software developments.
+- Ensure that the required resources are available for graphics, contents, coding and decoding data.
+- Prepare product demos, layouts, screens and illustrations.
+- Optimize web content where needed.
+- Merge and experiment web contents.
 
 
 ```markdown

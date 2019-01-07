@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## ABOUT ME
 
-You can use the [editor on GitHub](https://github.com/vipulkhandar/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I specialize in website design, mobile UI design, prototyping & analyzing user requirements.
+I have designed & developed websites & mobile apps professionally for over 5 years besides to create visually compelling and user-friendly websites and mobile applications according to the latest design trends focusing their brand and user interaction to the app.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My communicating skills are great and more than that, I am familiar with analyzing client response for the web as well as mobile applications, requirement gathering, user experience paradigms.
+
+However, I would like to get updated on new designing techniques, effects & technology behind Web application.
+
 
 ### Markdown
 

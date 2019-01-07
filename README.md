@@ -22,8 +22,8 @@ However, I would like to get updated on new designing techniques, effects & tech
 - Merge and experiment web contents.
 
 
-##Skills
-###Technical Skills
+## Skills
+### Technical Skills
 
 **Web Technology**
 Html5, Css3, Javascript, Jquery

@@ -43,7 +43,7 @@ Photoshop, Illustrator,
 - Group Study
 
 
-###Expertise In:
+### Expertise In:
 
 **Product Branding:**
 - Logo design for your product or business with respect to client thoughts and ideas.
